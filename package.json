@@ -1,0 +1,21 @@
+{
+  "name": "jn-format",
+  "version": "1.0.1",
+  "homepage": "https://github.com/jnxyx/jn-format",
+  "author": {
+    "name": "Yun Xiang Xu",
+    "url": "https://github.com/jnxyx"
+  },
+  "repository": "jnxyx/jn-format",
+  "bugs": {
+    "url": "https://github.com/jnxyx/jn-format"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
