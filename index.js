@@ -1,4 +1,11 @@
-module.exports = function jnformat(args) {
+/*!
+ * jn-format <https://github.com/jnxyx/jn-format>
+ *
+ * Copyright (c) 2016-2017, Yun Xiang Xu.
+ * Licensed under the MIT License.
+ */
+
+module.exports = function jnFormat(args) {
     var result = this;
     if (arguments.length > 0) {
         if (arguments.length == 1 && typeof (args) == "object") {
